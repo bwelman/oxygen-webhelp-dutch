@@ -1,0 +1,9 @@
+<plugin id="com.oxygenxml.webhelp.localization">
+    <!-- Plugin version -->
+    <feature extension="package.version" value="1.0"/>
+    <!-- Plugin dependency -->
+    <require plugin="com.oxygenxml.webhelp.classic"/>
+    <require plugin="com.oxygenxml.webhelp.responsive"/>
+    <!-- Define language file -->
+    <feature extension="dita.xsl.strings" file="webhelp-extension-strings.xml"/>
+</plugin>
