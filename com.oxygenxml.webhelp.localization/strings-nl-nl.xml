@@ -9,6 +9,14 @@ Translation strings for Dutch language provided by Ben Welman
 -->
 <strings xml:lang="nl-nl">
     <!--
+      Label for the 'Index Terms' page title.
+   -->
+    <str name="index.terms.page.title" js="true" php="false">Index Termen</str>
+    <!--
+      Used as header for user type column.
+   -->
+    <str name="admin.user.type" js="false" php="true">Type</str>
+    <!--
       Used as aria-label for toggle menu button.
    -->
     <str name="toggle.menu" js="true" php="false">Menu wisselen</str>
