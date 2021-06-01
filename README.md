@@ -14,3 +14,4 @@ After copying the folder, run DITA-OT Integrator transformation scenario for a D
 
 -  20 Aug 2018: Initial translation by Ben Welman
 -  12 Dec 2019: Additions for "index.terms.page.title" and "admin.user.type"
+-  01 Jun 2021: Removed dependency Oxygen webhelp classic
